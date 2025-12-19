@@ -1,5 +1,4 @@
 import {BsSearch} from 'react-icons/bs'
-
 import './index.css'
 
 const FiltersGroup = props => {
