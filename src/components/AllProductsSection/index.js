@@ -1,7 +1,6 @@
 import {Component} from 'react'
 import Loader from 'react-loader-spinner'
 import Cookies from 'js-cookie'
-
 import FiltersGroup from '../FiltersGroup'
 import ProductCard from '../ProductCard'
 import ProductsHeader from '../ProductsHeader'
