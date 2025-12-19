@@ -6,6 +6,7 @@ import {BsPlusSquare, BsDashSquare} from 'react-icons/bs'
 
 import CartContext from '../../context/CartContext'
 
+
 import Header from '../Header'
 import SimilarProductItem from '../SimilarProductItem'
 
