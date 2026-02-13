@@ -1,4 +1,5 @@
 import './index.css'
+
 const SimilarProductItem = props => {
   const {productDetails} = props
   const {title, brand, imageUrl, rating, price} = productDetails
